@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1620680467 source:e:\moje\code\hangmman2.0\main.cpp
+	<iostream>
+	<time.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"hangman.h"
+
+1621412274 e:\moje\code\hangmman2.0\hangman.h
+	<iostream>
+	<time.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1621412183 source:e:\moje\code\hangmman2.0\hangman.cpp
+	<iostream>
+	<time.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"hangman.h"
+
